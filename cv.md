@@ -27,9 +27,9 @@ ___
 Dnipro National University named after Oles Honchar
 ___
 ##### Languages:
-Ukraine - Native
-Russian - Intermediate
-English - Intermediate
+* Ukraine - Native
+* Russian - Intermediate
+* English - Intermediate
 
 
 
